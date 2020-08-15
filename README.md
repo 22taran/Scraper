@@ -1,0 +1,2 @@
+# Scraper
+Amazon products scraper
